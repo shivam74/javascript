@@ -27,7 +27,7 @@
 console.log(Math.random());  // randomvalue x 0 <= x <1
 console.log((Math.random()*10) + 1); // random value between 1(inclusive) and 9 (inclusive)
 console.log(Math.floor(Math.random()*10) + 1); // random integer between 1(inclusive) and 9 (inclusive)
-
+//
 const min = 10
 const max = 20
 
