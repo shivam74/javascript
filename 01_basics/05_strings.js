@@ -31,6 +31,6 @@ const gameName = new String('hitesh-hc-com')
 // console.log(url.replace('%20', '-'))
 
 // console.log(url.includes('sundar'))
-
+//
  console.log(gameName.split('-'));
  console.log(gameName.split('-')[1]);
