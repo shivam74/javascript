@@ -29,7 +29,7 @@ const gameName = new String('hitesh-hc-com')
 // const url = "https://hitesh.com/hitesh%20choudhary"
 
 // console.log(url.replace('%20', '-'))
-
+//
 // console.log(url.includes('sundar'))
 //
  console.log(gameName.split('-'));
