@@ -8,4 +8,5 @@ let anyNumber= Number(a)
      null => 0
      undefined => NaN
 */
-let name= String(b)
+let myname= String(b)
+console.log(anyNumber," ",myname)
